@@ -1,6 +1,6 @@
 # 🌐 AI Translator
 
-AI Translator is a simple, responsive web app that uses OpenAI's GPT API to translate user-inputted text into multiple languages using artificial intelligence.
+AI Translator is a simple, responsive web app that uses Google's Gemini API to translate user-inputted text into multiple languages using artificial intelligence.
 
 ## ✨ Features
 
