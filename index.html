@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="styles.css" />
+    <title>Document</title>
+  </head>
+  <body>
+    <img
+      src="assets/hero.jpg"
+      alt="Hero Image"
+      class="hero-image"
+      width="350px"
+    />
+    <h1>Ai Translator</h1>
+    <div class="translation">
+      <h3>Text to translate</h3>
+      <textarea id="textToTranslate" rows="4" cols="30"></textarea>
+      <h3>Select a language:</h3>
+      <input type="radio" name="lang" id="es" value="spanish" />
+      <label for="es">Spanish</label>
+      <input type="radio" name="lang" id="de " value="german" />
+      <label for="de">German</label>
+      <input type="radio" name="lang" id="ar" value="classical arabic" />
+      <label for="ar">Arabic</label>
+      <button id="btn">Translate</button>
+      <h3>Translated text:</h3>
+      <textarea id="translatedText" rows="4" cols="30" readonly></textarea>
+    </div>
+    <script src="env.js"></script>
+    <script src="script.js"></script>
+  </body>
+</html>
