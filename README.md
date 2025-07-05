@@ -11,7 +11,7 @@ AI Translator is a simple, responsive web app that uses OpenAI's GPT API to tran
 
 ## 📸 Demo
 
-![AI Translator Screenshot](screenshot.png) <!-- Replace with an actual screenshot if available -->
+![AI Translator Screenshot](screenshot.jpg) <!-- Replace with an actual screenshot if available -->
 
 ## 🚀 Live Preview
 
